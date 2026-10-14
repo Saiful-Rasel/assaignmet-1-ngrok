@@ -200,11 +200,11 @@ ngrok http 3000
 
 **ngrok terminal screenshot:**
 
-![ngrok tunnel](screenshots/02.png)
+![ngrok tunnel](screenshots/2.png)
 
 **Public URL screenshot:**
 
-![Public application URL](screenshots/03.png)
+![Public application URL](screenshots/3.png)
 
 ---
 
