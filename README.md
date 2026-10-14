@@ -152,12 +152,12 @@ This reduces confusion and improves coordination across locations and time zones
 
 **Tools:** Ubuntu Linux, Node.js, Terminal, and a web browser.
 
-**Application:** A Node.js HTTP server implemented in `app/server.js`.
+**Application:** A Node.js HTTP server implemented in `server.js`.
 
 **Command:**
 
 ```bash
-node app/server.js
+node server.js
 ```
 
 **Local URL:** `http://localhost:3000`
@@ -176,7 +176,7 @@ Running an application locally helps engineers validate functionality, test conf
 
 **Screenshot evidence:**
 
-![Local application](screenshots/01-local-app.png)
+![Local application](screenshots/1.png)
 
 ## Task 2: Exposing the Local Application Using ngrok
 
@@ -200,22 +200,14 @@ ngrok http 3000
 
 **ngrok terminal screenshot:**
 
-![ngrok tunnel](screenshots/02-ngrok-terminal.png)
+![ngrok tunnel](screenshots/02.png)
 
 **Public URL screenshot:**
 
-![Public application URL](screenshots/03-ngrok-public-url.png)
+![Public application URL](screenshots/03.png)
 
 ---
 
 # Conclusion
 
 This assignment explains DevOps principles, collaboration, incident troubleshooting, local application testing, and temporary internet access using ngrok. It demonstrates how automation, monitoring, communication, and continuous improvement help teams deliver reliable software.
-
----
-
-# Repository Information
-
-Repository: https://github.com/Saiful-Rasel/assaignmet-1-ngrok
-
-Practical verification and screenshots must be completed before submission.
